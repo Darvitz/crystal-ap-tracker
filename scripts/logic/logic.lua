@@ -557,5 +557,5 @@ function diplomagoal()
 end
 
 function r12_passage()
-    return has("SQUIRTBOTTLE") or has("route_12_access_vanilla")
+    return has("SQUIRTBOTTLE") or has("route_12_access_vanilla") or can_surf_kanto()
 end
