@@ -11133,6 +11133,31 @@
                 ]
             },
             {
+                "name": "Underground Path",
+                "sections": [
+                    {
+                        "name": "Underground Path - North Hidden Item",
+                        "ref": "JohtoKanto/Route 5/Underground Path - North Hidden Item"
+                    },
+                    {
+                        "name": "Underground Path - South Hidden Item",
+                        "ref": "JohtoKanto/Route 5/Underground Path - South Hidden Item"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Route5",
+                        "x": 280,
+                        "y": 248
+                    },
+                    {
+                        "map": "Route6",
+                        "x": 280,
+                        "y": 56
+                    }
+                ]
+            },
+            {
                 "name": "Route 6",
                 "sections": [
                     {
@@ -15592,7 +15617,7 @@
                     }
                 ]
             },
-                        {
+            {
                 "name": "Bug Catching Contest",
                 "map_locations": [
                     {
